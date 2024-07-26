@@ -1,6 +1,9 @@
-opencv-python-headless
 mediapipe
 pandas
 matplotlib
 numpy
 tflite-runtime
+opencv-python
+numpy
+tensorflow
+pyarrow  # Needed for reading parquet files
