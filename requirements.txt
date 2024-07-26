@@ -1,0 +1,6 @@
+opencv-python-headless
+mediapipe
+pandas
+matplotlib
+numpy
+tflite-runtime
